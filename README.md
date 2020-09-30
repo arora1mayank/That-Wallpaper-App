@@ -43,7 +43,7 @@
 
 ## :dart: About ##
 
-That Wallpaper App is just another wallpaper app which no one really wants. Just like any other wallpaper app, this one also does not have anything special or unique (apart for the fact that I am developing it). Since creating a wallpaper app has become a trend in begineers flutter community, I thought why not give it a shot and see where I end up.
+That Wallpaper App is just another wallpaper app which no one really wants. Just like any other wallpaper app, this one also does not have anything special or unique (apart for the fact that I am developing it). Since creating a wallpaper app has become a trend in beginners flutter community, I thought why not give it a shot and see where I end up.
 
 This project is created just out of curiosity and it will probably never get officially released on any of the app stores. However, I'll probably keep on releasing apks on github releases as and when I see fit.
 
